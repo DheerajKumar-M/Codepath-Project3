@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough](https://github.com/DheerajKumar-M/Codepath-Project3/blob/main/Project-3%20GIF.gif)' width='' alt='Video Walkthrough' />
+<img src='https://github.com/DheerajKumar-M/Codepath-Project3/blob/main/Project-3%20GIF.gif' title='Video Walkthrough](https://github.com/DheerajKumar-M/Codepath-Project3/blob/main/Project-3%20GIF.gif)' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
